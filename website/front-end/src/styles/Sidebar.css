@@ -1,0 +1,25 @@
+.menu-button{
+    text-decoration: none;
+    background: transparent;
+    border: none;
+    margin-left: 1em;
+}
+
+.menu-button:hover{
+    background-color: #7bc4de;
+}
+
+.menu-button img{
+    width:2em;
+}
+
+.label{
+    padding-left: 1em;
+    font-size: 1.5em;
+}
+
+.nav-block{
+    margin: 1em;
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,36 @@
+circle {
+    cursor: pointer;
+}
+
+.bubble-content {
+    width: 100px;
+}
+
+.bubble-link {
+    color: #FFF;
+    font-weight: bold;
+    display: block;
+}
+
+.bubble-text {
+    display: inline-block;
+    margin-top: 5px;
+    padding: 2px 10px;
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 1em
+}
+
+#svg-container{
+    position: relative;
+    top: 20%;
+    right: 30%;
+}
+
+span{
+    text-align: left;
+}
+
+/*.html { background: #F16529; }*/
+/*.css  { background: #1C88C7; }*/
+/*.js   { background: #FCC700; }*/

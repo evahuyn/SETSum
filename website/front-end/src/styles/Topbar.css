@@ -1,0 +1,27 @@
+.search-box{
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    padding-top: 1em;
+}
+
+.topbar-title{
+    width: 40vw;
+}
+
+.topbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.topbar-instructor{
+    display: flex;
+    padding-right: 5em;
+    padding-left: 1em;
+    align-items: center;
+}
+
+.topbar-instructor img{
+    margin-left: 0.5em;
+}

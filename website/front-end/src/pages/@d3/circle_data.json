@@ -1,0 +1,19 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "data",
+   "children": [
+    {
+     "name": "converters",
+     "children": [
+      {"name": "Converters", "value": 721},
+      {"name": "Converters", "value": 1000}
+     ],
+     "value": 11000
+    }
+   ],
+   "value": 20000
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+professor:0.49802 instructor:0.21446 passionate:0.11326 teach:0.11326 condescending:0.06100
+material:0.41895 lecture:0.16760 reading:0.14970 subject:0.13368 content:0.13007
+peer:0.20000 mentor:0.20000 book:0.20000 software:0.20000 reference:0.20000
+course:0.33005 enjoyed:0.24976 favorite:0.19041 challenging:0.12316 hard:0.10661
+syllabus:0.20931 requirement:0.19789 communicated:0.19789 wish:0.19789 discussion:0.19701
+assignment:0.32731 homework:0.31108 concept:0.16999 reading:0.12509 exercise:0.06653
+lab:0.32159 hand:0.19942 report:0.19942 grading:0.09945 experiment:0.18011
+recitation:0.56874 content:0.18249 project:0.10341 review:0.09124 group:0.05413
+group:0.29869 project:0.23785 recitation:0.20272 work:0.06074 team:0.20000
+learned:0.23001 real:0.21999 life:0.21999 skill:0.18533 understanding:0.14467
+discussion:0.35190 speak:0.17418 comfortable:0.17418 participation:0.17418 stressful:0.12557
+exam:0.31430 test:0.23863 question:0.19680 answer:0.12514 problem:0.12514
+project:0.30096 instance:0.22660 expectation:0.18279 clearly:0.15754 explained:0.13210
+ta:0.41797 job:0.19604 helping:0.12462 explained:0.06137 available:0.20000
+grading:0.39304 feedback:0.18931 harsh:0.15613 midterm:0.15613 easy:0.10539
