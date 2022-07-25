@@ -2,7 +2,7 @@
 
 This repository contains the code for the following paper:
 
-### SETSUM: Summarization and Visualization of Student Evaluations of Teaching
+### SETSUM: Summarization and Visualization of Student Evaluations of Teaching ([Paper Link](https://arxiv.org/abs/2207.03640))
 
 ```
 @inproceedings{hu-etal-2022-setsum,
